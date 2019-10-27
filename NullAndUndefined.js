@@ -22,3 +22,5 @@ console.log(valor2) // Nem foi declarado
 
 valor = null // Ausência de valor (Não aponta pra nenhum local da memória)
 console.log(valor)
+
+//console.log(valor.toString()) //Erro!
