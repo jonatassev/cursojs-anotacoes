@@ -1,4 +1,4 @@
-// destructing em Array
+// destructuring em Array
 const [a] = [10]
 console.log(a)
 

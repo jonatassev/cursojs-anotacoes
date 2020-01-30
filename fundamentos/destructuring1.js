@@ -16,7 +16,7 @@ const pessoa = {
 let nomeDaPessoa = pessoa.nome
 console.log(nomeDaPessoa)
 
-// com destructing:
+// com destructuring:
 
 const {nome, sobrenome} = pessoa
 
